@@ -78,8 +78,10 @@ A user-friendly web app is built using [Streamlit](https://streamlit.io/) to all
 
 ## Example Screenshots
 
-![Model Accuracy & Loss](screenshots/model_accuracy_loss.png)
-![Streamlit App](screenshots/streamlit_app.png)
+![Model Accuracy & Loss](screenshots/screenshots/Screenshot 2025-10-01 135332.png)
+![Roc Curve](screenshots/Roc_curve.png.png)
+![Streamlit App](screenshots/Screenshot 2025-10-01 135550.png)
+![Streamlit App](screenshots/Screenshot 2025-10-01 135528.png)
 
 ---
 
