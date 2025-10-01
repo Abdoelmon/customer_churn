@@ -79,7 +79,7 @@ A user-friendly web app is built using [Streamlit](https://streamlit.io/) to all
 ## Example Screenshots
 
 ![Model Accuracy & Loss](screenshots/Accuracy.png)
-![Roc Curve](screenshots/Roc_curve.png.png)
+![Roc Curve](screenshots/Roc_curve.png)
 ![Streamlit App](screenshots/streamlit1.png)
 ![Streamlit App](screenshots/streamlit2.png)
 
